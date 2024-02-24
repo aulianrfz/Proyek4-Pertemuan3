@@ -2,10 +2,6 @@
 
 Aulia Nurul Fauziah (221511005) - 2A D3
 
-Screenshot :
-
-![Screenshot 2024-02-24 221030](https://github.com/aulianrfz/Proyek4-Pertemuan3/assets/121351761/d354d9a0-6f97-41f1-b11b-07addbf9159f)
-
 **Modifikasi Aplikasi** 
 
 a. Harus memasukkan username dan password terlebih dahulu sebelum dapat menekkan tombol "next"
